@@ -14,3 +14,35 @@ body {
 	z-index: 999;
 	box-shadow: 0 0 5px rgba(0,0,0,0.2);
 }
+
+.dsk.teaser {
+	width: 1024px;
+	height: 786px;
+	margin: 0 auto;
+	background-image: url('/assets/img/teaser.jpg');
+	background-position: center center;
+}
+
+.dsk.teaser {
+	display: none;
+}
+
+@media (min-width:1025px) {
+
+	body {
+		background-color: #ffd402;
+	}
+	
+	.ui {
+		display: none !important;
+	}
+	
+	.dsk.header {
+		display: none;
+	}
+	
+	.dsk.teaser {
+		display: block;
+	}
+	
+}

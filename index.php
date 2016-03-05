@@ -18,6 +18,11 @@
 </head>
 <body>
 
+
+<div class="dsk teaser">
+
+</div>
+
 <header class="dsk header">
 	Diskon
 </header>
@@ -95,6 +100,26 @@
 		    <span class="left floated">
 		      <i class="shop icon"></i>
 		      Diskon up to Rp 150.000
+		    </span>
+		  </div>
+		</div>
+
+	</div>
+	
+	<div class="column">
+
+		<div class="ui link card">
+		  <div class="content">
+		    <div class="right floated meta">s/d 6 Mar</div>
+		    <img class="ui avatar image" src="/assets/content/img/merchant_tkt.jpg"> Tiket.com
+		  </div>
+		  <a class="image" href="http://www.tiket.com/promo-wara-wiri-mantapp">
+		    <img src="/assets/content/img/promobanner5.jpg">
+		  </a>
+		  <div class="content">
+		    <span class="left floated">
+		      <i class="shop icon"></i>
+		      Diskon 10% max Rp 150rb
 		    </span>
 		  </div>
 		</div>
