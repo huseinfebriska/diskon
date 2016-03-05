@@ -1,0 +1,16 @@
+body {
+	padding-top: 100px;
+}
+
+.dsk.header {
+	background-color: #ffd402;
+	color: #000;
+	height: 80px;
+	text-align: center;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 999;
+	box-shadow: 0 0 5px rgba(0,0,0,0.2);
+}
